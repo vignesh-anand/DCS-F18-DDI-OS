@@ -2,7 +2,7 @@
 
 ![assembled_photo.jpg](Images/assembled_photo.jpg)
 
-Quick project to build a functional Digital Display Indicator for the F18 Hornet in DCS World. The project is not meant to be a replica of the real device but act as a completely functional module to enhance the immersion and combat experience. Here's a demo:
+Quick project to build a functional Digital Display Indicator for the F18 Hornet in DCS World. The project is not meant to be a replica of the real device but act as a completely functional module to enhance the immersion and combat experience. This might also be good for other modules like the F16 but this is untested Here's a demo:
 
 [https://youtu.be/Hzj8HVoCLto](https://youtu.be/Hzj8HVoCLto)
 
@@ -64,3 +64,4 @@ Exporting specific displays can be achieved via creating lua files: [https://wik
 **Button Mappings:**
 
 The DDI will detect like a regular gamepad/controller with 20 buttons. In the F18 DCS module, button one of the DDI is the bottom most button of the left bank. Choose the command in DCS then click the appropriate button on the module to map.
+
