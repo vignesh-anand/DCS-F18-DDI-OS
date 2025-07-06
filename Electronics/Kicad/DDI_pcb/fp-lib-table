@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Seed_Studio")(type "KiCad")(uri "${KIPRJMOD}/Seed_Studio.pretty")(options "")(descr ""))
+  (lib (name "Panasonic_SW")(type "KiCad")(uri "${KIPRJMOD}/Panasonic_SW.pretty")(options "")(descr ""))
+)
