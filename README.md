@@ -19,7 +19,7 @@ Quick project to build a functional Digital Display Indicator for the F18 Hornet
 | M3 Bolts | $7.99 | 1 | [https://a.co/d/crp1qAX](https://a.co/d/crp1qAX) |  |
 | M2.5 Bolts | $7.57 | 1 | [https://a.co/d/fGeQGS1](https://a.co/d/fGeQGS1) |  |
 
-Total: $142
+Total: $142 for one, $108 each for three
 
 ### Assembling the Module
 
